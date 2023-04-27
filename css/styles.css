@@ -1,0 +1,15 @@
+table,tr,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 20%;
+    padding-top: 6px;
+    padding-bottom: 3px;
+}
+
+.value {
+    text-align: right;
+}
+
+.result {
+    text-align: center;
+}
